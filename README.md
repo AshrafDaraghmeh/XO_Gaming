@@ -1,1 +1,3 @@
-# XO_Gaming
+The "X O Gaming" project is a web-based implementation of the classic game. It is developed using HTML, CSS, and JavaScript. The web interface features a 3x3 grid of clickable squares, where players take turns marking X or O symbols. A prominent title at the top indicates the current player's turn, displaying either "X turn" or "O turn."
+
+The JavaScript code handles the game logic and interaction. It facilitates the seamless switch between X and O symbols upon clicking the squares. The code also checks for winning conditions based on possible patterns in the game, highlighting the winning combination and displaying the victorious player's symbol.
